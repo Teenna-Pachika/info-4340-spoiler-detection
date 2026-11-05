@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Big IMDB data files (too large for GitHub)
+IMDB_reviews.json
+IMDB_movie_details.json
