@@ -1,0 +1,16 @@
+{
+ "total_reviews": 573913,
+ "tagged_spoiler_share": 0.263,
+ "n_movies": 1572,
+ "chars_median": 1052,
+ "chars_p10": 547,
+ "chars_p90": 3031,
+ "in_length_window": 371833,
+ "after_cleaning_with_genre": 371468,
+ "borderline_share": 0.3803,
+ "spoiler_share_borderline": 0.2855,
+ "spoiler_share_regular": 0.1607,
+ "min_chars": 300,
+ "max_chars": 1500,
+ "seed": 42
+}

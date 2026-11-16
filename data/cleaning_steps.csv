@@ -1,0 +1,9 @@
+step,rows,spoiler_share,mean_rating,median_chars,n_movies
+0 raw file,573913,0.263,6.954,1052,1572
+"   (dropped: outside 300-1,500 chars)",202080,0.364,7.049,2264,1571
+"1 kept 300-1,500 characters",371833,0.2081,6.903,824,1572
+2 dropped blank reviews,371833,0.2081,6.903,824,1572
+3 dropped duplicate texts,371473,0.2082,6.902,824,1572
+4 dropped reviews with no genre,371468,0.2082,6.902,824,1570
+5a validation sample (stratified),100,0.5,6.36,861,94
+5b training sample (random),10000,0.207,6.909,822,1467

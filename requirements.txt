@@ -1,0 +1,12 @@
+pandas>=2.2,<3
+numpy>=2.0
+scikit-learn>=1.6
+matplotlib>=3.9
+anthropic>=0.70
+python-dotenv>=1.0
+nbformat>=5.10
+nbconvert>=7.16
+ipykernel>=6.29
+openpyxl>=3.1
+python-docx>=1.1          # only for labeling/word_to_csv.py
+tiktoken>=0.7             # Class 3 tokenizer (Part 2)

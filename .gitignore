@@ -1,0 +1,19 @@
+# secrets - never commit the API key
+.env
+*.env
+
+# environments and caches
+venv*/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# raw Kaggle files (950 MB, over GitHub's 100 MB limit) - see README for download steps
+data/raw/
+
+# AI use logs are individual - each of us submits our own, not through the repo
+AI_Use_Log*
+
+# Word lock/temp files
+~$*
+*.tmp
