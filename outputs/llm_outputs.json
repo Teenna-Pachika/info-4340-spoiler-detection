@@ -1,0 +1,2402 @@
+[
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals key plot points of Shutter Island's ending, including that the protagonist may be deluding himself, that he was not \"cured,\" and that he may be requesting a lobotomy.",
+  "input_tokens": 454,
+  "output_tokens": 73,
+  "response_time_s": 1.29,
+  "prompt": "A",
+  "review_id": "V001"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review explicitly reveals a key plot point (that the girl did not actually castrate the guy, that it was psychological torture, and that she coerced him into killing himself).",
+  "input_tokens": 418,
+  "output_tokens": 68,
+  "response_time_s": 1.94,
+  "prompt": "A",
+  "review_id": "V002"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the premise and early setup (Dave becoming a vigilante, meeting Hit Girl and Big Daddy, facing D'Amico) and explicitly withholds the ending without revealing any major plot twists.",
+  "input_tokens": 374,
+  "output_tokens": 86,
+  "response_time_s": 1.13,
+  "prompt": "A",
+  "review_id": "V003"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that Amy is a \"real psychopath\" who shape-shifts and takes over the story after the first quarter, which gives away the film's central twist about her character.",
+  "input_tokens": 370,
+  "output_tokens": 68,
+  "response_time_s": 2.04,
+  "prompt": "A",
+  "review_id": "V004"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals plot points such as the flooding of New York City, Dennis Quaid's trek to New York in arctic gear, and the short-lived role of Ian Holmes's character, which hints at his fate.",
+  "input_tokens": 516,
+  "output_tokens": 82,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V005"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only general praise and mentions basic setup details, such as Adrian's shyness and her protective brother, without revealing any key plot points or the ending.",
+  "input_tokens": 348,
+  "output_tokens": 63,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V006"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays at a general level, mentioning only the premise (a woman turning the tables on the bad guys) and the visual effects, and it reveals no specific plot twists or the ending.",
+  "input_tokens": 312,
+  "output_tokens": 71,
+  "response_time_s": 1.84,
+  "prompt": "A",
+  "review_id": "V007"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for Annie Hall, its chemistry between Allen and Keaton, and its blend of comedy and drama, without revealing any plot points or the ending.",
+  "input_tokens": 370,
+  "output_tokens": 70,
+  "response_time_s": 1.02,
+  "prompt": "A",
+  "review_id": "V008"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the special effects, tone, and story, and it reveals no specific plot points or twists beyond the mere presence of an alien creature and a prison setting.",
+  "input_tokens": 258,
+  "output_tokens": 70,
+  "response_time_s": 1.84,
+  "prompt": "A",
+  "review_id": "V009"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for Kubrick, the music, and the film's vague themes, without revealing any specific plot points, characters, or events.",
+  "input_tokens": 284,
+  "output_tokens": 58,
+  "response_time_s": 1.66,
+  "prompt": "A",
+  "review_id": "V010"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions, casting details, and premise-level information (a remake featuring kung fu), without revealing any plot twists or the ending.",
+  "input_tokens": 331,
+  "output_tokens": 60,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V011"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions and mentions set details like the flying ship and security system, without revealing any plot twists or the ending.",
+  "input_tokens": 435,
+  "output_tokens": 53,
+  "response_time_s": 1.79,
+  "prompt": "A",
+  "review_id": "V012"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general impressions, such as that it's scary, has a good story, and explains everything by the end, without revealing any specific plot points, twists, or character outcomes.",
+  "input_tokens": 302,
+  "output_tokens": 67,
+  "response_time_s": 1.59,
+  "prompt": "A",
+  "review_id": "V013"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that Zach ends up genuinely liking the girl he took the bet to transform, which is a key development in the romantic arc rather than just the setup.",
+  "input_tokens": 378,
+  "output_tokens": 366,
+  "response_time_s": 4.57,
+  "prompt": "A",
+  "review_id": "V014"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that Gibson's character kills the Colonel in the climax (\"gets his in the end\"), and it hints at Heath Ledger's character's fate as \"another punch in the face.\"",
+  "input_tokens": 593,
+  "output_tokens": 74,
+  "response_time_s": 1.87,
+  "prompt": "A",
+  "review_id": "V015"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the acting, writing, and number of storylines, and it reveals no plot points or outcomes.",
+  "input_tokens": 457,
+  "output_tokens": 53,
+  "response_time_s": 1.84,
+  "prompt": "A",
+  "review_id": "V016"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the script, casting, and pacing, and it mentions a \"pathetic battle scene at the end\" without describing any actual plot events or outcomes.",
+  "input_tokens": 452,
+  "output_tokens": 69,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V017"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the leads overcome the obstacle and end up together with a kiss and a happy epilogue, though it frames this as the genre's predictable formula.",
+  "input_tokens": 500,
+  "output_tokens": 67,
+  "response_time_s": 1.21,
+  "prompt": "A",
+  "review_id": "V018"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is a rant about an actor's political statements and says nothing about the movie's plot, characters, or ending.",
+  "input_tokens": 354,
+  "output_tokens": 48,
+  "response_time_s": 0.86,
+  "prompt": "A",
+  "review_id": "V019"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays vague, mentioning only that there is a \"turn of events\" that will shock viewers without revealing any plot details, characters, or outcomes.",
+  "input_tokens": 391,
+  "output_tokens": 61,
+  "response_time_s": 1.0,
+  "prompt": "A",
+  "review_id": "V020"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise of the tone, cast, and action, and reveals nothing beyond basic setup, such as Corey Stoll playing the villain, which is not a meaningful plot spoiler.",
+  "input_tokens": 495,
+  "output_tokens": 78,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V021"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals major plot points of Wrong Turn, such as the car crash involving barbed wire and a trailer and the characters being killed by cannibal mutants, while comparing it to The Hills Have Eyes.",
+  "input_tokens": 343,
+  "output_tokens": 85,
+  "response_time_s": 1.12,
+  "prompt": "A",
+  "review_id": "V022"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays at the level of general premise, tone, and character descriptions (including the basic Season 1 conflict over New Orleans) without revealing any major twists or outcomes.",
+  "input_tokens": 497,
+  "output_tokens": 69,
+  "response_time_s": 1.75,
+  "prompt": "A",
+  "review_id": "V023"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals specific plot points, such as Doc Ock not being truly evil and Harry Osborn getting Spider-Man in his clutches and then letting him go.",
+  "input_tokens": 498,
+  "output_tokens": 69,
+  "response_time_s": 1.57,
+  "prompt": "A",
+  "review_id": "V024"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only compares Black Swan's overall similarity to Perfect Blue and criticizes it, without revealing any specific plot points, twists, or the ending.",
+  "input_tokens": 410,
+  "output_tokens": 64,
+  "response_time_s": 1.5,
+  "prompt": "A",
+  "review_id": "V025"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and basic setup details, like Mike Myers playing both Austin Powers and Dr. Evil, and reveals no plot twists or the ending.",
+  "input_tokens": 238,
+  "output_tokens": 68,
+  "response_time_s": 1.48,
+  "prompt": "A",
+  "review_id": "V026"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the basic premise (a promiscuous woman meets a good guy and considers changing) and its general tone, without revealing any significant plot twists or the ending.",
+  "input_tokens": 392,
+  "output_tokens": 67,
+  "response_time_s": 1.08,
+  "prompt": "A",
+  "review_id": "V027"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only discusses the reviewer's reaction and which book elements were missing (like Ares, Clarisse, and cerberus) without revealing any actual plot points, twists, or the ending of the movie.",
+  "input_tokens": 418,
+  "output_tokens": 78,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V028"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the screenplay, direction, and cast, plus a passing mention of the baby and Justin Bartha's \"lost guy\" role, both of which are established early in the premise and reveal no major plot twists or the ending.",
+  "input_tokens": 460,
+  "output_tokens": 89,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V029"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review discusses the film's mood, premise (not knowing who is an alien \"Thing\"), and acting in general terms, and its only hint about the ending is a vague rhetorical question that doesn't reveal what happens.",
+  "input_tokens": 476,
+  "output_tokens": 82,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V030"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the show's decline and mentions Stabler's departure, which is a well-known fact about the series, without revealing any specific plot points or twists.",
+  "input_tokens": 201,
+  "output_tokens": 67,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V031"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general complaints about the cast, editing, action scenes, and credits, without revealing any plot points, twists, or the ending.",
+  "input_tokens": 221,
+  "output_tokens": 57,
+  "response_time_s": 1.73,
+  "prompt": "A",
+  "review_id": "V032"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays at the level of general praise for the characters, humor, and soundtrack, and it gives no specific plot points or twists (the vague \"he killed everyone\" remark reveals nothing concrete).",
+  "input_tokens": 493,
+  "output_tokens": 77,
+  "response_time_s": 1.84,
+  "prompt": "A",
+  "review_id": "V033"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only mentions vague details, such as a funny scene and magnetised neck devices bringing characters back together, without revealing major plot points, twists, or the ending.",
+  "input_tokens": 324,
+  "output_tokens": 65,
+  "response_time_s": 1.95,
+  "prompt": "A",
+  "review_id": "V034"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review explicitly reveals the final scene, stating that Marley has to be put down and dies at the end.",
+  "input_tokens": 479,
+  "output_tokens": 48,
+  "response_time_s": 1.36,
+  "prompt": "A",
+  "review_id": "V035"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only covers the film's premise, setup, and general comedic style, with no plot twists or ending revealed.",
+  "input_tokens": 305,
+  "output_tokens": 48,
+  "response_time_s": 1.09,
+  "prompt": "A",
+  "review_id": "V036"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The reviewer reveals a specific scene in which Riddick kills one of the characters and quotes his line, which gives away a plot event, though the rest of the review stays vague.",
+  "input_tokens": 296,
+  "output_tokens": 70,
+  "response_time_s": 1.58,
+  "prompt": "A",
+  "review_id": "V037"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only covers the premise given in the opening setup (Daniel disguising himself as a housekeeper to see his children), plus general opinions on the performances, script, and tone, without revealing any later plot developments or the ending.",
+  "input_tokens": 630,
+  "output_tokens": 83,
+  "response_time_s": 1.13,
+  "prompt": "A",
+  "review_id": "V038"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's action, humor, and marketing, and it never reveals any plot points, twists, or the ending.",
+  "input_tokens": 465,
+  "output_tokens": 57,
+  "response_time_s": 1.07,
+  "prompt": "A",
+  "review_id": "V039"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's basic premise (Arnold hunting for his son's Christmas present amid holiday shopping chaos) and gives general praise, without revealing any major plot twists or the ending.",
+  "input_tokens": 332,
+  "output_tokens": 77,
+  "response_time_s": 1.75,
+  "prompt": "A",
+  "review_id": "V040"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only expresses general praise for the film's acting, directing, story, and music, and it reveals no plot points or twists.",
+  "input_tokens": 378,
+  "output_tokens": 51,
+  "response_time_s": 1.12,
+  "prompt": "A",
+  "review_id": "V041"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the J.K. Simmons character's general teaching style and the reviewer's personal comparison to a professor, without revealing any plot points or the ending.",
+  "input_tokens": 338,
+  "output_tokens": 65,
+  "response_time_s": 1.24,
+  "prompt": "A",
+  "review_id": "V042"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and mentions the cast, tone, and Groot's humor, without revealing any plot points, twists, or the ending.",
+  "input_tokens": 341,
+  "output_tokens": 58,
+  "response_time_s": 1.12,
+  "prompt": "A",
+  "review_id": "V043"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The reviewer explicitly warns of \"some spoilers\" and reveals a plot point, namely that Alabama is brutally beaten in the film, although the details are minimal.",
+  "input_tokens": 386,
+  "output_tokens": 70,
+  "response_time_s": 1.34,
+  "prompt": "A",
+  "review_id": "V044"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's basic premise (a 30-year-old transformed into his 17-year-old self), which is the setup, and gives general praise without revealing any plot twists or the ending.",
+  "input_tokens": 348,
+  "output_tokens": 73,
+  "response_time_s": 1.78,
+  "prompt": "A",
+  "review_id": "V045"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only discusses general themes, tone, and the reviewer's opinion of the film and Reese Witherspoon, without revealing any specific plot points or the ending.",
+  "input_tokens": 440,
+  "output_tokens": 66,
+  "response_time_s": 1.7,
+  "prompt": "A",
+  "review_id": "V046"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals major plot points from Predator 2, including that Danny Glover's character kills the Predator single-handedly and that the Predator tries to activate its self-destruct bomb.",
+  "input_tokens": 453,
+  "output_tokens": 74,
+  "response_time_s": 1.12,
+  "prompt": "A",
+  "review_id": "V047"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the acting, dialogue, and action scenes, and it never reveals specific plot points or the ending (the mention of a chase scene echoed in \"Brick\" gives no story details).",
+  "input_tokens": 409,
+  "output_tokens": 79,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V048"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays with general praise, themes, and performances, and only vaguely says the ending avoids over-telling without revealing any plot points or outcomes.",
+  "input_tokens": 502,
+  "output_tokens": 61,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V049"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general criticism of the plot, pacing, and direction, and says \"something finally happened\" at the end without revealing what, so no specific plot points are given away.",
+  "input_tokens": 305,
+  "output_tokens": 65,
+  "response_time_s": 1.12,
+  "prompt": "A",
+  "review_id": "V050"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the cast, direction, length, and soundtrack, and mentions suspects slipping away, which is a basic premise of the story, without revealing any key plot points or the ending.",
+  "input_tokens": 480,
+  "output_tokens": 77,
+  "response_time_s": 1.13,
+  "prompt": "A",
+  "review_id": "V051"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for the actors, the director, and the movie's appeal, and the one plot detail it mentions (two people meeting through the internet) is the basic premise rather than a twist or ending.",
+  "input_tokens": 314,
+  "output_tokens": 77,
+  "response_time_s": 1.58,
+  "prompt": "A",
+  "review_id": "V052"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only criticizes the acting, music, and visuals and mentions walking out, without revealing any plot points, twists, or the ending.",
+  "input_tokens": 332,
+  "output_tokens": 56,
+  "response_time_s": 1.39,
+  "prompt": "A",
+  "review_id": "V053"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The reviewer describes specific plot events, such as blowing nuclear radiation away with a fan and surviving a fall from a 12-storey building without injury, which reveal story details even though they are used to mock the film.",
+  "input_tokens": 455,
+  "output_tokens": 82,
+  "response_time_s": 1.64,
+  "prompt": "A",
+  "review_id": "V054"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only recaps the basic premise (the premise from the promotional synopsis) and offers general criticism of the cast, humor, and clich\u00e9-driven nature without revealing any plot twists or the ending.",
+  "input_tokens": 331,
+  "output_tokens": 77,
+  "response_time_s": 1.33,
+  "prompt": "A",
+  "review_id": "V055"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly voices general complaints about tone, acting, and scenes like the dancing and jazz club, and it reveals no major plot twists or the ending.",
+  "input_tokens": 561,
+  "output_tokens": 63,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V056"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only discusses the film's style of humour and the reviewer's enjoyment, without revealing any plot points, twists, or the ending.",
+  "input_tokens": 413,
+  "output_tokens": 57,
+  "response_time_s": 1.07,
+  "prompt": "A",
+  "review_id": "V057"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions that there is a twist but doesn't reveal what it is or any specific plot details, only offering general praise and opinions.",
+  "input_tokens": 289,
+  "output_tokens": 55,
+  "response_time_s": 1.18,
+  "prompt": "A",
+  "review_id": "V058"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's quality, mentioning characters and ratings without revealing any plot points, twists, or the ending.",
+  "input_tokens": 339,
+  "output_tokens": 58,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V059"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general complaints about the acting, effects, and tone, and mentions one minor scene (a boy turning purple after a kiss) without revealing any significant plot points or the ending.",
+  "input_tokens": 454,
+  "output_tokens": 73,
+  "response_time_s": 1.94,
+  "prompt": "A",
+  "review_id": "V060"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals specific plot details, such as the soldiers invading a house and being invited to dinner, a sexist remark about Kyle's baby, and the Zero Dark Thirty finale's tone, though these are minor and not major twists.",
+  "input_tokens": 460,
+  "output_tokens": 90,
+  "response_time_s": 1.43,
+  "prompt": "A",
+  "review_id": "V061"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general complaints about the plot, humor, CGI, and fight scenes, and it reveals no specific plot points, twists, or outcomes.",
+  "input_tokens": 382,
+  "output_tokens": 63,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V062"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays at a general level, praising acting, pacing, and action and noting minor complaints, without revealing any specific plot twists or the ending.",
+  "input_tokens": 359,
+  "output_tokens": 59,
+  "response_time_s": 1.33,
+  "prompt": "A",
+  "review_id": "V063"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general criticism (weak plot, forced humor, unthreatening villain) and mentions a minor early character detail about the son calling McClane by his first name, without revealing any major plot twists or the ending.",
+  "input_tokens": 309,
+  "output_tokens": 81,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V064"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions general plot structure (powers arriving after an hour, one action scene, Doom as the villain) but reveals no significant twists or endings, since Doom being the villain is established from the comics and the premise.",
+  "input_tokens": 466,
+  "output_tokens": 80,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V065"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the show's general premise and early setup (brothers hunting supernatural beings, searching for their father) and its tone and acting, without revealing major plot twists or outcomes.",
+  "input_tokens": 480,
+  "output_tokens": 72,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V066"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's tone, setting, acting, and direction, and its remark that nothing turned out well is a vague general impression rather than a specific plot reveal.",
+  "input_tokens": 296,
+  "output_tokens": 66,
+  "response_time_s": 1.65,
+  "prompt": "A",
+  "review_id": "V067"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays at the level of general praise (action, cast, car chases) and only mentions that a \"climactic revelation\" exists without saying what it is, so no actual plot twists are revealed.",
+  "input_tokens": 338,
+  "output_tokens": 72,
+  "response_time_s": 1.12,
+  "prompt": "A",
+  "review_id": "V068"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is mostly a political critique of the film's themes, and its vague references to government lies and phone surveillance don't reveal specific plot twists or the ending.",
+  "input_tokens": 437,
+  "output_tokens": 230,
+  "response_time_s": 3.24,
+  "prompt": "A",
+  "review_id": "V069"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the film's quality, such as dark lighting, weak character development, and Harley Quinn's accent, without revealing any plot points or twists.",
+  "input_tokens": 347,
+  "output_tokens": 67,
+  "response_time_s": 1.5,
+  "prompt": "A",
+  "review_id": "V070"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only general praise and mentions that team members were shot many times and died, which is revealed by the film's title and its real-life basis, so it does not disclose any significant plot twists or the ending.",
+  "input_tokens": 555,
+  "output_tokens": 74,
+  "response_time_s": 2.12,
+  "prompt": "A",
+  "review_id": "V071"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for the direction, script, and performances without revealing any plot points, twists, or the ending.",
+  "input_tokens": 329,
+  "output_tokens": 49,
+  "response_time_s": 1.46,
+  "prompt": "A",
+  "review_id": "V072"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review discusses general tone, Costner's performance, and the film's editing without revealing any plot points, twists, or the ending.",
+  "input_tokens": 464,
+  "output_tokens": 53,
+  "response_time_s": 1.71,
+  "prompt": "A",
+  "review_id": "V073"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the acting, introduction, and story, and it never reveals any plot twists or the ending.",
+  "input_tokens": 372,
+  "output_tokens": 50,
+  "response_time_s": 1.75,
+  "prompt": "A",
+  "review_id": "V074"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: Although the reviewer says they won't spoil the ending, they reveal that the film takes an unexpected twist, that liked characters are killed off or change completely, and that the ending is unsatisfying, which gives away key plot developments.",
+  "input_tokens": 258,
+  "output_tokens": 88,
+  "response_time_s": 1.94,
+  "prompt": "A",
+  "review_id": "V075"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the rebels steal the Death Star plans and that all the members of Rogue One die, which is a major plot outcome, though the reviewer presents it as something the audience already knows.",
+  "input_tokens": 472,
+  "output_tokens": 76,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V076"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals plot details from Snowpiercer, including Chris Evans' speech about knowing what human tastes like, the steak scene with Ed Harris, and the existence of a \"weird and confusing ending,\" while speculating about a cannibalism twist.",
+  "input_tokens": 399,
+  "output_tokens": 97,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V077"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the basic premise (a board game whose cards affect the house), the meteor shower as an early plot point, and the language content, without revealing any major twists or the ending.",
+  "input_tokens": 321,
+  "output_tokens": 68,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V078"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the character Skinny is killed in a particular scene, which is a significant plot point.",
+  "input_tokens": 315,
+  "output_tokens": 47,
+  "response_time_s": 1.53,
+  "prompt": "A",
+  "review_id": "V079"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general impressions of the acting, the genre, and comparisons to other films, and it reveals no specific plot points, twists, or the ending.",
+  "input_tokens": 326,
+  "output_tokens": 61,
+  "response_time_s": 1.64,
+  "prompt": "A",
+  "review_id": "V080"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only criticizes the show's slow pacing and heavy use of flashbacks and talking heads, without revealing any specific plot points, twists, or outcomes.",
+  "input_tokens": 264,
+  "output_tokens": 66,
+  "response_time_s": 1.13,
+  "prompt": "A",
+  "review_id": "V081"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals major plot points beyond the setup, including that Clyde kills the freed man, goes to prison, and then kills the people involved in his arrest from inside.",
+  "input_tokens": 482,
+  "output_tokens": 67,
+  "response_time_s": 1.74,
+  "prompt": "A",
+  "review_id": "V082"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise and mentions well-known premises (the film follows Mason from boyhood to adulthood over many years) without revealing any specific plot twists or key events.",
+  "input_tokens": 297,
+  "output_tokens": 68,
+  "response_time_s": 1.13,
+  "prompt": "A",
+  "review_id": "V083"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only critiques camera work, costumes, lighting, script, and production quality without revealing any plot points or outcomes.",
+  "input_tokens": 442,
+  "output_tokens": 52,
+  "response_time_s": 1.7,
+  "prompt": "A",
+  "review_id": "V084"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise and comments on the casting of Tom Hanks and Meg Ryan, without revealing any specific plot points, twists, or the ending.",
+  "input_tokens": 288,
+  "output_tokens": 65,
+  "response_time_s": 1.0,
+  "prompt": "A",
+  "review_id": "V085"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic premise (a kid left home alone while thieves try to rob the house), which is revealed early in the film and is not a plot twist or ending.",
+  "input_tokens": 231,
+  "output_tokens": 64,
+  "response_time_s": 1.7,
+  "prompt": "A",
+  "review_id": "V086"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review discusses the style, the star, and the villain's setup, and it leaves the outcome open (\"Will she? Who cares.\") without revealing any plot twists or the ending.",
+  "input_tokens": 596,
+  "output_tokens": 69,
+  "response_time_s": 1.13,
+  "prompt": "A",
+  "review_id": "V087"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review describes a few amusing scenes, a line of dialogue, and the performances, but none of that reveals major plot points, twists, or the ending.",
+  "input_tokens": 464,
+  "output_tokens": 60,
+  "response_time_s": 1.45,
+  "prompt": "A",
+  "review_id": "V088"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general criticism of the film's style and its focus on violence, and it does not reveal any plot points beyond the well-known premise of the story of Christ.",
+  "input_tokens": 486,
+  "output_tokens": 64,
+  "response_time_s": 1.32,
+  "prompt": "A",
+  "review_id": "V089"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays at the level of general premise, themes, set and sound design, and tone, without revealing any specific plot twists, character fates, or the ending.",
+  "input_tokens": 289,
+  "output_tokens": 60,
+  "response_time_s": 1.11,
+  "prompt": "A",
+  "review_id": "V090"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the music, acting, winter setting, and tone, and it reveals no plot points, twists, or character fates.",
+  "input_tokens": 320,
+  "output_tokens": 57,
+  "response_time_s": 1.75,
+  "prompt": "A",
+  "review_id": "V091"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only shares personal reactions, a general complaint about realism (soldiers being too noisy), and the broad premise of good versus evil battling for Charlie Sheen's character, without revealing any specific plot events or the ending.",
+  "input_tokens": 313,
+  "output_tokens": 85,
+  "response_time_s": 1.24,
+  "prompt": "A",
+  "review_id": "V092"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the plot holes, acting, and the movie's confined setting, which is basic premise information, and it reveals no specific plot events or twists.",
+  "input_tokens": 411,
+  "output_tokens": 66,
+  "response_time_s": 1.62,
+  "prompt": "A",
+  "review_id": "V093"
+ },
+ {
+  "answer": "Spoiler: No\n\nReason: It only describes the general setup and the mid-film chaos of Jurassic Park (the dinosaurs escaping, the T. rex attack), which is the well-known premise and not the ending or any major twist.",
+  "input_tokens": 470,
+  "output_tokens": 78,
+  "response_time_s": 1.94,
+  "prompt": "A",
+  "review_id": "V094"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays general, mentioning the revenge theme, violence, and references without revealing specific plot points, twists, or the ending.",
+  "input_tokens": 302,
+  "output_tokens": 54,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V095"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review opens with a \"SPOILERS\" warning and mentions plot points from Arrival, such as the heroine gaining the ability to see into the future from the aliens, although it is vague and framed as confusion.",
+  "input_tokens": 257,
+  "output_tokens": 81,
+  "response_time_s": 1.64,
+  "prompt": "A",
+  "review_id": "V096"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and a basic premise (\"justice for victims\" based on the graphic novel), with no specific plot twists or ending details revealed.",
+  "input_tokens": 351,
+  "output_tokens": 61,
+  "response_time_s": 1.54,
+  "prompt": "A",
+  "review_id": "V097"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general opinions about CGI quality, jokes, and the film's disappointing feel, and it mentions a video-game-like fight scene without describing any plot points, twists, or outcomes.",
+  "input_tokens": 307,
+  "output_tokens": 77,
+  "response_time_s": 1.64,
+  "prompt": "A",
+  "review_id": "V098"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: Beyond the setup, it reveals that Landon falls in love with Jamie and becomes a true gentleman, and the remark that the film is \"sad\" and made the reviewer cry hints at the tragic ending, though the death itself isn't named.",
+  "input_tokens": 348,
+  "output_tokens": 93,
+  "response_time_s": 1.23,
+  "prompt": "A",
+  "review_id": "V099"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals major plot points, including that the hero secretly builds an armor suit instead of a missile to escape his captors, and that he destroys his own weapons and kills the thing that was trying to kill him and the woman he loves.",
+  "input_tokens": 526,
+  "output_tokens": 87,
+  "response_time_s": 1.84,
+  "prompt": "A",
+  "review_id": "V100"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals key details about Shutter Island's ending, including that the protagonist may be deluding himself, that he appears not to be \"cured,\" and that his final exchange with his \"partner\" may be a request to be lobotomized.",
+  "input_tokens": 533,
+  "output_tokens": 85,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V001"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals major plot events, including that the castration was faked and that the girl coerced the man into killing himself.",
+  "input_tokens": 497,
+  "output_tokens": 50,
+  "response_time_s": 0.94,
+  "prompt": "B",
+  "review_id": "V002"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the basic setup (Dave becoming a vigilante, meeting Hit Girl and Big Daddy, and facing the gang boss D'Amico), which is premise-level information, and it explicitly withholds the ending.",
+  "input_tokens": 453,
+  "output_tokens": 89,
+  "response_time_s": 1.21,
+  "prompt": "B",
+  "review_id": "V003"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that Amy is a psychopath who \"shape-shifts\" and takes over the film after the first quarter, which gives away the central twist about her character, though it never describes specific plot events.",
+  "input_tokens": 449,
+  "output_tokens": 76,
+  "response_time_s": 1.64,
+  "prompt": "B",
+  "review_id": "V004"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions only premise-level events, such as the New York flooding and Quaid's trek, which are widely known from marketing, and it describes one performance as \"short-lived\" without saying what happens to the character.",
+  "input_tokens": 595,
+  "output_tokens": 370,
+  "response_time_s": 3.82,
+  "prompt": "B",
+  "review_id": "V005"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise and mentions the characters' basic setup (Adrian's shyness, her protective brother) without revealing the ending, twists, or any major plot events.",
+  "input_tokens": 427,
+  "output_tokens": 68,
+  "response_time_s": 1.5,
+  "prompt": "B",
+  "review_id": "V006"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the story, acting, and visuals, plus a vague premise-level mention of a formula and a woman turning the tables on the bad guys, without revealing any twist, ending, death, or villain identity.",
+  "input_tokens": 391,
+  "output_tokens": 85,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V007"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the film, its chemistry, and its blend of comedy and drama, and it mentions no plot events, twists, or outcomes.",
+  "input_tokens": 449,
+  "output_tokens": 63,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V008"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the special effects, tone, and quality compared to earlier films, and mentions only the basic premise (an alien creature, a prison setting) without revealing any plot events, twists, deaths, or the ending.",
+  "input_tokens": 337,
+  "output_tokens": 87,
+  "response_time_s": 2.05,
+  "prompt": "B",
+  "review_id": "V009"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for Kubrick, the music, and the film's themes, and it vaguely urges viewers to find the \"point\" themselves without revealing any plot events, twists, endings, or character fates.",
+  "input_tokens": 363,
+  "output_tokens": 79,
+  "response_time_s": 1.23,
+  "prompt": "B",
+  "review_id": "V010"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the film's length, acting, and direction, plus basic premise and casting details (Kung Fu rather than Karate, who plays which role), and it reveals no plot events, twists, or endings.",
+  "input_tokens": 410,
+  "output_tokens": 83,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V011"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general complaints about the script, visuals, casting and tone, and mentions set pieces such as the flying ship and security system without revealing any plot events, twists, or the ending.",
+  "input_tokens": 514,
+  "output_tokens": 72,
+  "response_time_s": 1.84,
+  "prompt": "B",
+  "review_id": "V012"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the story, scares, and quality, and it doesn't reveal any specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 381,
+  "output_tokens": 62,
+  "response_time_s": 0.92,
+  "prompt": "B",
+  "review_id": "V013"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the setup (the bet to make a girl prom queen) and the predictable romantic development that is part of the premise, without revealing the ending, any twist, or any character's fate.",
+  "input_tokens": 457,
+  "output_tokens": 230,
+  "response_time_s": 3.11,
+  "prompt": "B",
+  "review_id": "V014"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that the Colonel shoots Martin's youngest son, that the Colonel \"gets his in the end\" with Gibson beating him in the climax, and hints at Heath Ledger's character's tragic fate.",
+  "input_tokens": 672,
+  "output_tokens": 85,
+  "response_time_s": 1.71,
+  "prompt": "B",
+  "review_id": "V015"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the writing, acting, and overall quality, and it mentions no plot events, twists, deaths, or endings.",
+  "input_tokens": 536,
+  "output_tokens": 58,
+  "response_time_s": 1.43,
+  "prompt": "B",
+  "review_id": "V016"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the script, casting, acting, and scenery, and its passing mention of a \"pathetic battle scene at the end\" doesn't reveal any specific plot events or outcomes.",
+  "input_tokens": 531,
+  "output_tokens": 78,
+  "response_time_s": 1.95,
+  "prompt": "B",
+  "review_id": "V017"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: Although it's framed around genre tropes, the review confirms that the two leads beat the odds, fall for each other, and get a happy ending, which reveals how the movie ends.",
+  "input_tokens": 579,
+  "output_tokens": 333,
+  "response_time_s": 4.0,
+  "prompt": "B",
+  "review_id": "V018"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is a rant about an actor's political statements and makes no mention of the movie's plot, characters, twists, or ending.",
+  "input_tokens": 433,
+  "output_tokens": 52,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V019"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and vague hints like \"a turn of events that will shock you\" without revealing any actual plot details, twists, or character outcomes.",
+  "input_tokens": 470,
+  "output_tokens": 61,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V020"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review says Corey Stoll plays \"the bad guy\" and is \"convincingly evil,\" which reveals who the villain is, even though the rest of the review is general opinion.",
+  "input_tokens": 574,
+  "output_tokens": 350,
+  "response_time_s": 3.58,
+  "prompt": "B",
+  "review_id": "V021"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review describes plot points of Wrong Turn, such as the car crash involving barbed wire and the characters being killed by cannibal mutants, as part of its comparison to The Hills Have Eyes.",
+  "input_tokens": 422,
+  "output_tokens": 80,
+  "response_time_s": 1.64,
+  "prompt": "B",
+  "review_id": "V022"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general premise details, character descriptions, and opinions, and the \"struggle of Klaus to regain New Orleans\" is a basic setup rather than a revealed plot twist, death, or ending.",
+  "input_tokens": 576,
+  "output_tokens": 79,
+  "response_time_s": 2.04,
+  "prompt": "B",
+  "review_id": "V023"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals a specific plot event, that Harry Osborn gets Spider-Man in his clutches and lets him go, and it also hints that Doc Ock isn't really evil.",
+  "input_tokens": 577,
+  "output_tokens": 260,
+  "response_time_s": 3.28,
+  "prompt": "B",
+  "review_id": "V024"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only claims the film closely copies Perfect Blue and gives general opinions about its quality and acting, without revealing any specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 489,
+  "output_tokens": 70,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V025"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for the film, Mike Myers' dual roles (which are part of the basic premise), and Liz Hurley's performance, without revealing any plot events, twists, or the ending.",
+  "input_tokens": 317,
+  "output_tokens": 77,
+  "response_time_s": 0.91,
+  "prompt": "B",
+  "review_id": "V026"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the humor and the basic setup (a promiscuous woman meets a good guy and considers changing), which is premise-level information rather than a major plot event, twist, or ending.",
+  "input_tokens": 471,
+  "output_tokens": 77,
+  "response_time_s": 1.64,
+  "prompt": "B",
+  "review_id": "V027"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only compares the film to the books in general terms (missing characters and locations, changed overall story) without revealing any specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 497,
+  "output_tokens": 66,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V028"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the humor, direction, and acting, and it names cast members and the baby character without revealing any plot twists, endings, or key events.",
+  "input_tokens": 539,
+  "output_tokens": 62,
+  "response_time_s": 1.08,
+  "prompt": "B",
+  "review_id": "V029"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and mentions the film's premise (not knowing who is an alien \"Thing\"), and its comment on the ending is vague and reveals no actual plot outcome.",
+  "input_tokens": 555,
+  "output_tokens": 71,
+  "response_time_s": 2.2,
+  "prompt": "B",
+  "review_id": "V030"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the show's decline and mentions Stabler leaving the series, without revealing any specific plot events, twists, or endings.",
+  "input_tokens": 280,
+  "output_tokens": 61,
+  "response_time_s": 1.64,
+  "prompt": "B",
+  "review_id": "V031"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the cast, editing, cinematography, and overall quality, without revealing any plot events, twists, or the ending.",
+  "input_tokens": 300,
+  "output_tokens": 59,
+  "response_time_s": 1.55,
+  "prompt": "B",
+  "review_id": "V032"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the characters, humor, soundtrack, and violence, and mentions no specific plot events, deaths, twists, or the villain; \"he killed everyone\" is a vague remark about the film's tone.",
+  "input_tokens": 572,
+  "output_tokens": 85,
+  "response_time_s": 1.73,
+  "prompt": "B",
+  "review_id": "V033"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions only vague details, like a funny scene and magnetised necklaces used in the effects, along with general opinions on the acting, story, and quality, and none of it reveals major plot events, twists, deaths, or the ending.",
+  "input_tokens": 403,
+  "output_tokens": 86,
+  "response_time_s": 2.15,
+  "prompt": "B",
+  "review_id": "V034"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review explicitly reveals the ending, stating that in the final scene Marley has to be put down and the dog dies.",
+  "input_tokens": 558,
+  "output_tokens": 52,
+  "response_time_s": 1.02,
+  "prompt": "B",
+  "review_id": "V035"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only covers the premise and setup (Tommy's character, his college history, and his dynamic with Spade's character) along with general opinions about the gags and performances, without revealing any major plot events, twists, or the ending.",
+  "input_tokens": 384,
+  "output_tokens": 82,
+  "response_time_s": 1.43,
+  "prompt": "B",
+  "review_id": "V036"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The reviewer describes a specific scene in which Riddick kills one of the other characters and quotes his line, which reveals a plot event, even though the rest of the review is general praise.",
+  "input_tokens": 375,
+  "output_tokens": 71,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V037"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only covers the premise (Daniel disguising himself as a housekeeper to see his kids, which is the film's basic setup) along with opinions on the acting, script, and box office, and it reveals no twists, endings, or major plot developments.",
+  "input_tokens": 709,
+  "output_tokens": 90,
+  "response_time_s": 2.25,
+  "prompt": "B",
+  "review_id": "V038"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's quality, humor, and action style, and compares it to other films, without revealing any specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 544,
+  "output_tokens": 69,
+  "response_time_s": 1.54,
+  "prompt": "B",
+  "review_id": "V039"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the movie's general premise (Arnie hunting for a Christmas toy amid shopping chaos) and gives opinions, without revealing any twists, endings, deaths, or the villain.",
+  "input_tokens": 411,
+  "output_tokens": 78,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V040"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for the acting, directing, music, and effects, and it never mentions any plot events, twists, or the ending.",
+  "input_tokens": 457,
+  "output_tokens": 55,
+  "response_time_s": 1.43,
+  "prompt": "B",
+  "review_id": "V041"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only mentions J.K. Simmons' character Fletcher's general teaching style and the reviewer's personal comparison to a professor, without revealing any specific plot events, twists, or the ending.",
+  "input_tokens": 417,
+  "output_tokens": 77,
+  "response_time_s": 1.23,
+  "prompt": "B",
+  "review_id": "V042"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise, mentions the cast and characters like Starlord and Groot, and comments on tone and audience suitability, without revealing any plot events, twists, deaths, or the villain.",
+  "input_tokens": 420,
+  "output_tokens": 76,
+  "response_time_s": 1.23,
+  "prompt": "B",
+  "review_id": "V043"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review mentions that Alabama is brutally beaten, which is a significant plot event, and the reviewer even warns of \"some spoilers.\"",
+  "input_tokens": 465,
+  "output_tokens": 60,
+  "response_time_s": 1.63,
+  "prompt": "B",
+  "review_id": "V044"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review reveals only the film's basic premise (a 30-year-old transformed into his 17-year-old self), which is the setup rather than a hidden plot event, and otherwise offers general opinions on the acting, chemistry, and enjoyment.",
+  "input_tokens": 427,
+  "output_tokens": 92,
+  "response_time_s": 2.25,
+  "prompt": "B",
+  "review_id": "V045"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the film's mixed themes, tone, and Reese Witherspoon's performance, and it doesn't reveal any specific plot events, twists, or the ending.",
+  "input_tokens": 519,
+  "output_tokens": 74,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V046"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals major plot events from the movie, including that Danny Glover's character single-handedly kills the Predator and that the Predator tries to activate its self-destruct bomb near the end.",
+  "input_tokens": 532,
+  "output_tokens": 75,
+  "response_time_s": 1.84,
+  "prompt": "B",
+  "review_id": "V047"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the acting, dialogue, action and clich\u00e9s, and mentions a chase scene inspiration without revealing any plot events, twists, deaths, or the villain.",
+  "input_tokens": 488,
+  "output_tokens": 73,
+  "response_time_s": 1.21,
+  "prompt": "B",
+  "review_id": "V048"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and thematic commentary, and its remark that the film \"ends nicely\" doesn't reveal any actual plot events, twists, deaths, or the ending itself.",
+  "input_tokens": 581,
+  "output_tokens": 72,
+  "response_time_s": 1.62,
+  "prompt": "B",
+  "review_id": "V049"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the plot, acting, and visuals, and mentions that \"something finally happened\" at the end without saying what it was.",
+  "input_tokens": 384,
+  "output_tokens": 58,
+  "response_time_s": 1.51,
+  "prompt": "B",
+  "review_id": "V050"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the cast, direction, length and soundtrack, and mentions suspects slipping away and the killer closing in on prey, which are broad premise-level details rather than specific plot events, twists, or the ending.",
+  "input_tokens": 559,
+  "output_tokens": 87,
+  "response_time_s": 1.8,
+  "prompt": "B",
+  "review_id": "V051"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only general praise for the acting, humor, and appeal, and its one plot detail (two people meeting through the internet) is just the basic premise, not a twist or ending.",
+  "input_tokens": 393,
+  "output_tokens": 69,
+  "response_time_s": 1.22,
+  "prompt": "B",
+  "review_id": "V052"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the acting, music, visuals, and the reviewer's decision to walk out, without revealing any plot events, twists, or endings.",
+  "input_tokens": 411,
+  "output_tokens": 64,
+  "response_time_s": 1.13,
+  "prompt": "B",
+  "review_id": "V053"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review describes specific plot events, such as a character blowing away nuclear radiation with a fan and surviving a fall from a 12-storey building, which reveal details someone wouldn't know before watching.",
+  "input_tokens": 534,
+  "output_tokens": 78,
+  "response_time_s": 1.38,
+  "prompt": "B",
+  "review_id": "V054"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic setup (the President in danger, the marshal's rescue mission, and the villain Arliss Loveless, who is introduced in the premise) and otherwise offers general opinions about the cast, humor, and Hollywood clich\u00e9s, without revealing any twists, deaths, or the ending.",
+  "input_tokens": 410,
+  "output_tokens": 111,
+  "response_time_s": 1.49,
+  "prompt": "B",
+  "review_id": "V055"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is mostly general complaints about tone, acting and scenes, and its plot references (the symbiote, Peter's dancing, the jazz club) are minor setup details rather than the ending, a twist, a character death, or a villain reveal.",
+  "input_tokens": 640,
+  "output_tokens": 216,
+  "response_time_s": 3.48,
+  "prompt": "B",
+  "review_id": "V056"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only discusses the style of humour, the audience reaction, and the reviewer's general opinion, without revealing any plot events, twists, deaths, or the ending.",
+  "input_tokens": 492,
+  "output_tokens": 66,
+  "response_time_s": 2.07,
+  "prompt": "B",
+  "review_id": "V057"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions that there is a twist but doesn't reveal what it is, and the rest is general praise for the acting, direction, and pacing.",
+  "input_tokens": 368,
+  "output_tokens": 58,
+  "response_time_s": 1.62,
+  "prompt": "B",
+  "review_id": "V058"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's humor, pacing, acting, and IMDb rating, and it reveals no plot events, twists, deaths, or the ending.",
+  "input_tokens": 418,
+  "output_tokens": 68,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V059"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only general opinions about the effects, acting, and tone, plus a minor scene where a boy gets kissed and turns purple, and it explicitly says the reviewer didn't see the ending, so no major plot events, twists, or outcomes are revealed.",
+  "input_tokens": 533,
+  "output_tokens": 97,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V060"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals the outcome of the Zero Dark Thirty \"finale\" (the raid on bin Laden, though this is also historical fact), and it describes specific American Sniper plot events, such as soldiers invading a house and being invited to dinner and a mid-film remark about Kyle's baby, though none of these are major twists.",
+  "input_tokens": 539,
+  "output_tokens": 119,
+  "response_time_s": 2.15,
+  "prompt": "B",
+  "review_id": "V061"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general complaints about the plot, humor, clich\u00e9s, CGI, and fight scenes, without revealing any specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 461,
+  "output_tokens": 69,
+  "response_time_s": 1.03,
+  "prompt": "B",
+  "review_id": "V062"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals a plot point (the FBI head told his people to back off, which explains Denzil's leeway) and implies the lead was shot without a bulletproof vest.",
+  "input_tokens": 438,
+  "output_tokens": 459,
+  "response_time_s": 4.19,
+  "prompt": "B",
+  "review_id": "V063"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general criticism of the plot, humor, antagonist, and character development, and the detail about the son calling him by his first name is an early character dynamic rather than a major plot event, twist, or ending.",
+  "input_tokens": 388,
+  "output_tokens": 78,
+  "response_time_s": 1.12,
+  "prompt": "B",
+  "review_id": "V064"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly criticizes pacing, editing, behind-the-scenes problems and the lack of team chemistry. The only plot detail is that Dr. Doom is the villain in the one action scene, which is well known from the comics and marketing and isn't a twist or ending reveal.",
+  "input_tokens": 545,
+  "output_tokens": 270,
+  "response_time_s": 2.76,
+  "prompt": "B",
+  "review_id": "V065"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the show's general premise (two brothers hunting supernatural beings, a demon killing someone close to Sam) and offers opinions on acting and tone, without revealing any major twists, deaths, or endings.",
+  "input_tokens": 559,
+  "output_tokens": 83,
+  "response_time_s": 2.25,
+  "prompt": "B",
+  "review_id": "V066"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general impressions of the tone, acting, and Dust Bowl setting, and its vague remark that nothing turned out well reveals no specific plot events, twists, or ending.",
+  "input_tokens": 375,
+  "output_tokens": 73,
+  "response_time_s": 1.33,
+  "prompt": "B",
+  "review_id": "V067"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays general, mentioning only the cast, the action, and that a \"climatic revelation\" exists, without saying what it is or revealing any specific plot event, twist, or outcome.",
+  "input_tokens": 417,
+  "output_tokens": 71,
+  "response_time_s": 1.64,
+  "prompt": "B",
+  "review_id": "V068"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is mostly a political rant about the film's themes, and its vague references to government lying and phone surveillance don't reveal any major twist, character death, ending, or villain identity.",
+  "input_tokens": 516,
+  "output_tokens": 227,
+  "response_time_s": 2.56,
+  "prompt": "B",
+  "review_id": "V069"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the film's quality, lighting, character development, and performances (such as Harley Quinn's accent and the Joker), and it reveals no plot events, twists, deaths, or villain identities.",
+  "input_tokens": 426,
+  "output_tokens": 82,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V070"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that the team members died, and names Dietz specifically as dying (citing his autopsy report), which is a character death, though the title and the true story already imply heavy casualties.",
+  "input_tokens": 634,
+  "output_tokens": 188,
+  "response_time_s": 2.87,
+  "prompt": "B",
+  "review_id": "V071"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the direction, script, and performances, and it doesn't reveal any plot events, twists, or the ending.",
+  "input_tokens": 408,
+  "output_tokens": 55,
+  "response_time_s": 1.54,
+  "prompt": "B",
+  "review_id": "V072"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general opinions about Costner's performance, the film's tone, and its editing, and mentions no plot events, twists, deaths, or the ending.",
+  "input_tokens": 543,
+  "output_tokens": 63,
+  "response_time_s": 1.12,
+  "prompt": "B",
+  "review_id": "V073"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for the acting, writing, and story, and mentions Gere's character's bar quote and Norton's awards without revealing any twist, ending, or major plot event.",
+  "input_tokens": 451,
+  "output_tokens": 71,
+  "response_time_s": 1.53,
+  "prompt": "B",
+  "review_id": "V074"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays vague, mentioning only that the ending is unconventional and that liked characters are \"disposed of\" or changed, without naming any character, event, twist, or outcome.",
+  "input_tokens": 337,
+  "output_tokens": 206,
+  "response_time_s": 2.77,
+  "prompt": "B",
+  "review_id": "V075"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review states that the rebels get the Death Star plans and that all the newly established members of Rogue One will die, which reveals the ending and character deaths.",
+  "input_tokens": 551,
+  "output_tokens": 62,
+  "response_time_s": 1.54,
+  "prompt": "B",
+  "review_id": "V076"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals a speculated original plot twist (the poor being kept to be eaten), details of a key scene with Ed Harris and Chris Evans, and mentions the ending being changed, which discloses significant plot elements of Snowpiercer.",
+  "input_tokens": 478,
+  "output_tokens": 94,
+  "response_time_s": 2.25,
+  "prompt": "B",
+  "review_id": "V077"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the basic premise (a board game affecting the house), mentions the meteor shower that happens early in the film, and gives general opinions about pacing and language, without revealing any twists, endings, or major plot events.",
+  "input_tokens": 400,
+  "output_tokens": 82,
+  "response_time_s": 1.64,
+  "prompt": "B",
+  "review_id": "V078"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the character Skinny is killed in a scene, which is a character death that someone wouldn't know before watching.",
+  "input_tokens": 394,
+  "output_tokens": 54,
+  "response_time_s": 1.43,
+  "prompt": "B",
+  "review_id": "V079"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on the acting, the genre, and comparisons to other films, and it reveals no specific plot events, twists, deaths, or the identity of the villain.",
+  "input_tokens": 405,
+  "output_tokens": 69,
+  "response_time_s": 1.08,
+  "prompt": "B",
+  "review_id": "V080"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the show's slow pacing, its talking-heads style, and its lack of progress, without revealing any specific plot events, twists, character fates, or the ending.",
+  "input_tokens": 343,
+  "output_tokens": 72,
+  "response_time_s": 1.27,
+  "prompt": "B",
+  "review_id": "V081"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals major plot developments beyond the setup, including that Clyde kills the freed man and then kills people connected to his arrest from inside prison.",
+  "input_tokens": 561,
+  "output_tokens": 63,
+  "response_time_s": 1.54,
+  "prompt": "B",
+  "review_id": "V082"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and mentions the premise (filmed over many years, following Mason from boyhood to adulthood) without revealing any specific plot events, twists, or the ending.",
+  "input_tokens": 376,
+  "output_tokens": 71,
+  "response_time_s": 1.62,
+  "prompt": "B",
+  "review_id": "V083"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only discusses camerawork, costumes, lighting, acting, script and production quality, and compares the film to others, without revealing any plot events, twists, deaths, or the ending.",
+  "input_tokens": 521,
+  "output_tokens": 71,
+  "response_time_s": 1.51,
+  "prompt": "B",
+  "review_id": "V084"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's feel-good tone and the casting of Tom Hanks and Meg Ryan, without revealing any specific plot events, twists, or the ending.",
+  "input_tokens": 367,
+  "output_tokens": 74,
+  "response_time_s": 1.99,
+  "prompt": "B",
+  "review_id": "V085"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic premise (a kid forgotten at home while thieves try to rob the house), which is setup rather than a twist or ending, and the rest is general opinion.",
+  "input_tokens": 310,
+  "output_tokens": 69,
+  "response_time_s": 1.67,
+  "prompt": "B",
+  "review_id": "V086"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review reveals only the basic premise, such as Powell being the villain (which is established early on) and Lara needing to save the world, and it gives away no twists, endings, or major plot events, since it explicitly leaves open whether she succeeds.",
+  "input_tokens": 675,
+  "output_tokens": 89,
+  "response_time_s": 1.71,
+  "prompt": "B",
+  "review_id": "V087"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review describes a few scenes, a quoted line, and general opinions on performances and quality, but it reveals no major plot events, twists, deaths, or endings.",
+  "input_tokens": 543,
+  "output_tokens": 64,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V088"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general criticism of Gibson's direction, the film's style, and its heavy focus on violence, without revealing any plot events, twists, or endings beyond the widely known story premise.",
+  "input_tokens": 565,
+  "output_tokens": 74,
+  "response_time_s": 2.15,
+  "prompt": "B",
+  "review_id": "V089"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's general themes (post-apocalyptic survival, AI machines), its set and sound design, and its overall tone, without revealing any specific plot events, twists, deaths, or the villain.",
+  "input_tokens": 368,
+  "output_tokens": 79,
+  "response_time_s": 1.31,
+  "prompt": "B",
+  "review_id": "V090"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the music, acting, winter setting, and tone, and it mentions no plot events, twists, deaths, or the villain's identity.",
+  "input_tokens": 399,
+  "output_tokens": 64,
+  "response_time_s": 1.16,
+  "prompt": "B",
+  "review_id": "V091"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only general opinions, personal history, and a critique of realism, and its mention of the \"good versus evil battling for the soul\" of Sheen's character describes the premise rather than revealing any specific plot event, twist, or ending.",
+  "input_tokens": 392,
+  "output_tokens": 87,
+  "response_time_s": 1.12,
+  "prompt": "B",
+  "review_id": "V092"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about quality, acting and pacing, plus the broad setting of a confined space, which is basic premise rather than a plot event, twist, death, or ending.",
+  "input_tokens": 490,
+  "output_tokens": 70,
+  "response_time_s": 1.63,
+  "prompt": "B",
+  "review_id": "V093"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's premise and early setup (the park, the invited experts, the dinosaurs breaking out), which is widely known and appears in the marketing, and it doesn't reveal the ending, a twist, a character's death, or the villain.",
+  "input_tokens": 549,
+  "output_tokens": 91,
+  "response_time_s": 1.53,
+  "prompt": "B",
+  "review_id": "V094"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review shares general opinions, mentions the revenge theme and violent style (which are evident from the premise), and the \"amputated head\" comment is a vague joke rather than a specific, important plot event.",
+  "input_tokens": 381,
+  "output_tokens": 74,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V095"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The reviewer says the main character was given the ability to see into the future by the aliens, which reveals a central plot point of the film, even though the review is mostly a vague complaint about the story.",
+  "input_tokens": 336,
+  "output_tokens": 72,
+  "response_time_s": 1.33,
+  "prompt": "B",
+  "review_id": "V096"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise and a vague note that the plot is a \"justice for victims affair\" based on a graphic novel, and mentions Brandon Lee's death in real life (not a plot event), so it reveals no specific plot twists, deaths, or endings.",
+  "input_tokens": 430,
+  "output_tokens": 95,
+  "response_time_s": 1.23,
+  "prompt": "B",
+  "review_id": "V097"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general opinions about CGI, humor, and the film's quality, plus a vague mention of a fight scene that looks like a video game, without revealing any plot events, twists, deaths, or the villain.",
+  "input_tokens": 386,
+  "output_tokens": 80,
+  "response_time_s": 1.54,
+  "prompt": "B",
+  "review_id": "V098"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic setup (a popular bad boy and a quiet girl grow close and he falls for her) and says the film is sad, without revealing any major twist, character death, or ending.",
+  "input_tokens": 427,
+  "output_tokens": 73,
+  "response_time_s": 1.84,
+  "prompt": "B",
+  "review_id": "V099"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the hero secretly builds the armor instead of a missile to escape captivity, and that he destroys his own weapons and kills the thing trying to kill him and the woman he loves, which are significant plot events.",
+  "input_tokens": 605,
+  "output_tokens": 85,
+  "response_time_s": 1.74,
+  "prompt": "B",
+  "review_id": "V100"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals major plot points about the ending, including that the protagonist may be deluding himself to escape his past, that he has not been \"cured,\" and that his final words to his partner may be a request to be lobotomized.",
+  "input_tokens": 652,
+  "output_tokens": 79,
+  "response_time_s": 1.94,
+  "prompt": "C",
+  "review_id": "V001"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals major plot events, including that the castration was faked and only psychological torture, and that the girl coerced the man into killing himself.",
+  "input_tokens": 616,
+  "output_tokens": 57,
+  "response_time_s": 1.02,
+  "prompt": "C",
+  "review_id": "V002"
+ },
+ {
+  "answer": "Spoiler: No\nReason: It only covers the setup (Dave becoming a costumed vigilante, meeting Hit Girl and Big Daddy, facing the villain D'Amico) and general praise, while explicitly withholding the ending.",
+  "input_tokens": 572,
+  "output_tokens": 82,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V003"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that Amy is a psychopath who \"shape-shifts\" into different personas, which is a major twist in Gone Girl that viewers wouldn't know beforehand.",
+  "input_tokens": 568,
+  "output_tokens": 72,
+  "response_time_s": 1.45,
+  "prompt": "C",
+  "review_id": "V004"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly gives opinions on effects, characters and pacing, and the plot points it mentions (the New York flooding, Quaid's trek to New York) are the premise and early setup rather than twists or the ending.",
+  "input_tokens": 714,
+  "output_tokens": 193,
+  "response_time_s": 2.03,
+  "prompt": "C",
+  "review_id": "V005"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only opinions about the film and its performances, plus general setup details like Rocky bringing the shy Adrian out of her shell, without revealing the ending or any major plot twist.",
+  "input_tokens": 546,
+  "output_tokens": 72,
+  "response_time_s": 2.05,
+  "prompt": "C",
+  "review_id": "V006"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions only vague premise-level details (a formula, bad guys, a woman turning the tables on them) and otherwise gives opinions on acting, visuals, and rewatchability, without revealing any major plot events, twists, or the ending.",
+  "input_tokens": 510,
+  "output_tokens": 91,
+  "response_time_s": 1.33,
+  "prompt": "C",
+  "review_id": "V007"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for Annie Hall, the chemistry between Allen and Keaton, and Woody Allen's blend of comedy and drama, with no plot events, twists, or endings revealed.",
+  "input_tokens": 568,
+  "output_tokens": 79,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V008"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the special effects, tone, and quality compared to earlier films, and mentions only the premise-level details (an alien creature, a prison setting) without revealing any plot events, twists, or outcomes.",
+  "input_tokens": 456,
+  "output_tokens": 84,
+  "response_time_s": 2.05,
+  "prompt": "C",
+  "review_id": "V009"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for Kubrick, the music, and the film's themes, and it does not reveal any specific plot events, twists, or character outcomes.",
+  "input_tokens": 482,
+  "output_tokens": 63,
+  "response_time_s": 1.33,
+  "prompt": "C",
+  "review_id": "V010"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on pacing, acting, and direction and describes the basic premise and casting (Kung Fu rather than Karate), without revealing any major plot events, twists, or the ending.",
+  "input_tokens": 529,
+  "output_tokens": 77,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V011"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives negative opinions about the script, visuals, casting, and tone, and mentions set elements like the flying ship and security system without revealing any key plot events, twists, or endings.",
+  "input_tokens": 633,
+  "output_tokens": 72,
+  "response_time_s": 1.58,
+  "prompt": "C",
+  "review_id": "V012"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the story, scares, and pacing, and it reveals no specific plot events, twists, deaths, or the identity of the villain.",
+  "input_tokens": 500,
+  "output_tokens": 63,
+  "response_time_s": 1.09,
+  "prompt": "C",
+  "review_id": "V013"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that Zach ends up liking the girl he took the bet to transform, which is a major plot development (the romantic outcome) rather than just the premise, even though that outcome is predictable for the genre.",
+  "input_tokens": 576,
+  "output_tokens": 80,
+  "response_time_s": 1.43,
+  "prompt": "C",
+  "review_id": "V014"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that the Colonel shoots Martin's youngest son, that Gibson kills the Colonel (\"gets his in the end\") in the climax, and hints at Heath Ledger's character's tragic fate, all of which are major plot events.",
+  "input_tokens": 791,
+  "output_tokens": 93,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V015"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives negative opinions about the writing, acting, and overall quality, and a vague remark about the character being \"worn out with life,\" without revealing any specific plot events, twists, or endings.",
+  "input_tokens": 655,
+  "output_tokens": 73,
+  "response_time_s": 1.56,
+  "prompt": "C",
+  "review_id": "V016"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions on the acting, script, pacing, and scenery, and its one mention of a battle scene at the end reveals no actual plot events or outcomes.",
+  "input_tokens": 650,
+  "output_tokens": 67,
+  "response_time_s": 1.72,
+  "prompt": "C",
+  "review_id": "V017"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: Although it frames the plot as standard romcom tropes, it states that the leads overcome the obstacle, fall for each other, and kiss at the end, and that they earn their happiness in the epilogue, which reveals the ending.",
+  "input_tokens": 698,
+  "output_tokens": 87,
+  "response_time_s": 1.02,
+  "prompt": "C",
+  "review_id": "V018"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is a rant about an actor's political statements and Hollywood in general, and it mentions no plot events, characters, or endings.",
+  "input_tokens": 552,
+  "output_tokens": 54,
+  "response_time_s": 1.71,
+  "prompt": "C",
+  "review_id": "V019"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only expresses general praise and vague remarks like \"a turn of events that will shock you\" without revealing any specific plot details, twists, or character fates.",
+  "input_tokens": 589,
+  "output_tokens": 61,
+  "response_time_s": 1.16,
+  "prompt": "C",
+  "review_id": "V020"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions on the film's tone, cast, and action, and its one plot-adjacent remark (Corey Stoll playing the bad guy) names the main antagonist, who is clear from the premise and marketing rather than a twist.",
+  "input_tokens": 693,
+  "output_tokens": 401,
+  "response_time_s": 4.2,
+  "prompt": "C",
+  "review_id": "V021"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review recounts plot points of Wrong Turn, such as the car crash while hauling a trailer and the characters being killed by cannibal mutants, even though it frames them as a comparison to The Hills Have Eyes.",
+  "input_tokens": 541,
+  "output_tokens": 86,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V022"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives general premise and character descriptions (Klaus's struggle to regain New Orleans, which is the show's basic setup) and opinions on the seasons, without revealing any twists, deaths, or endings.",
+  "input_tokens": 695,
+  "output_tokens": 81,
+  "response_time_s": 1.94,
+  "prompt": "C",
+  "review_id": "V023"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that Harry Osborn has Spider-Man in his clutches and lets him go, which is a significant plot event, and it also notes that Doc Ock \"wasn't even really evil.\"",
+  "input_tokens": 696,
+  "output_tokens": 77,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V024"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only claims the film copies \"Perfect Blue\" and gives opinions on its quality and acting, without revealing any specific plot events, twists, or endings.",
+  "input_tokens": 608,
+  "output_tokens": 64,
+  "response_time_s": 1.12,
+  "prompt": "C",
+  "review_id": "V025"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the movie, Mike Myers' dual roles (Austin Powers and Dr. Evil, which is the premise rather than a twist), and Liz Hurley's performance, without revealing any plot events, twists, or the ending.",
+  "input_tokens": 436,
+  "output_tokens": 95,
+  "response_time_s": 1.95,
+  "prompt": "C",
+  "review_id": "V026"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly gives opinions on the humor and calls the film a standard romantic comedy, and its only plot detail (Amy's character meets a good guy who makes her consider changing her ways) is the basic setup, not a twist or ending.",
+  "input_tokens": 590,
+  "output_tokens": 89,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V027"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about how the film differs from the books, mentioning characters and places that were left out (Ares, Clarisse, Cerberus, the underworld) without revealing any plot events, twists, or the ending.",
+  "input_tokens": 616,
+  "output_tokens": 83,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V028"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the humor, directing, and acting, plus a cast list, and mentions the baby and Justin Bartha being \"the lost guy,\" which are basic premise details rather than important plot events or twists.",
+  "input_tokens": 658,
+  "output_tokens": 82,
+  "response_time_s": 1.84,
+  "prompt": "C",
+  "review_id": "V029"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review stays with general praise for the mood, acting, and effects, and the premise of not knowing who is an alien \"Thing\" is the film's basic setup. Its only nod to the ending is a vague remark about whether \"the other guy\" is a Thing, which gives away no actual outcome.",
+  "input_tokens": 674,
+  "output_tokens": 103,
+  "response_time_s": 1.43,
+  "prompt": "C",
+  "review_id": "V030"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the show's quality and political tone, and the mention of Stabler leaving the show is general series background rather than a specific plot reveal.",
+  "input_tokens": 399,
+  "output_tokens": 64,
+  "response_time_s": 1.68,
+  "prompt": "C",
+  "review_id": "V031"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the cast, editing, cinematography, and overall quality, and it mentions no plot events, twists, deaths, or the ending.",
+  "input_tokens": 419,
+  "output_tokens": 63,
+  "response_time_s": 1.69,
+  "prompt": "C",
+  "review_id": "V032"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions on character development, humor, soundtrack, and violence level, and it doesn't reveal any specific plot events, deaths, twists, or the ending.",
+  "input_tokens": 691,
+  "output_tokens": 182,
+  "response_time_s": 2.36,
+  "prompt": "C",
+  "review_id": "V033"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions only vague details, such as a funny scene and magnetised things around characters' necks, and otherwise gives opinions on comedy, acting, and pacing without revealing major plot events, twists, deaths, or the ending.",
+  "input_tokens": 522,
+  "output_tokens": 87,
+  "response_time_s": 1.84,
+  "prompt": "C",
+  "review_id": "V034"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals the ending, that Marley is put down and dies in the final scene, which is a major plot event.",
+  "input_tokens": 677,
+  "output_tokens": 49,
+  "response_time_s": 1.95,
+  "prompt": "C",
+  "review_id": "V035"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the premise and setup (characters, their roles, and Tommy's college background) along with opinions on the gags and chemistry, without revealing any major plot events, twists, or the ending.",
+  "input_tokens": 503,
+  "output_tokens": 75,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V036"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals a specific plot event, Riddick killing one of the antagonists, along with a line of dialogue from that scene, though it doesn't give away the ending or any major twist.",
+  "input_tokens": 494,
+  "output_tokens": 72,
+  "response_time_s": 2.25,
+  "prompt": "C",
+  "review_id": "V037"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's premise (Daniel disguising himself as a housekeeper to see his kids) and gives opinions on the performances, writing, and box office, without revealing any twists or the ending.",
+  "input_tokens": 828,
+  "output_tokens": 77,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V038"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's quality, humor, action style, and marketing, and it doesn't reveal any specific plot events, twists, or endings.",
+  "input_tokens": 663,
+  "output_tokens": 65,
+  "response_time_s": 1.49,
+  "prompt": "C",
+  "review_id": "V039"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the film's general premise (a dad hunting for a Christmas toy, chaotic shopping scenes) and gives opinions, without revealing any twist, ending, or major plot event.",
+  "input_tokens": 530,
+  "output_tokens": 76,
+  "response_time_s": 1.17,
+  "prompt": "C",
+  "review_id": "V040"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only expresses general praise for the movie's acting, directing, story, music, and effects, and it does not reveal any plot events.",
+  "input_tokens": 576,
+  "output_tokens": 54,
+  "response_time_s": 1.44,
+  "prompt": "C",
+  "review_id": "V041"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only shares a personal comparison between the Fletcher character and a professor, plus general opinions about the film, without revealing specific plot events, twists, or the ending.",
+  "input_tokens": 536,
+  "output_tokens": 66,
+  "response_time_s": 1.11,
+  "prompt": "C",
+  "review_id": "V042"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the acting, humor, tone, and family-friendliness, and it mentions characters like Starlord and Groot without revealing any plot events, twists, or outcomes.",
+  "input_tokens": 539,
+  "output_tokens": 76,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V043"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review mentions the brutal beating of Alabama, a specific plot event, and the author even warns of \"some spoilers,\" though it is otherwise mostly general praise.",
+  "input_tokens": 584,
+  "output_tokens": 68,
+  "response_time_s": 1.54,
+  "prompt": "C",
+  "review_id": "V044"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only reveals the movie's basic premise (a 30-year-old turned back into his 17-year-old self), which is the setup rather than a twist or ending, and the rest is opinion on acting and enjoyment.",
+  "input_tokens": 546,
+  "output_tokens": 82,
+  "response_time_s": 2.05,
+  "prompt": "C",
+  "review_id": "V045"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the film's tone, pacing, and themes (such as overcoming heartbreak and finding new love) and about Reese Witherspoon's performance, without revealing any specific plot events, twists, or the ending.",
+  "input_tokens": 638,
+  "output_tokens": 89,
+  "response_time_s": 1.24,
+  "prompt": "C",
+  "review_id": "V046"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals major plot events from the film, including that Danny Glover's character single-handedly kills the Predator and that the Predator tries to activate its self-destruct bomb while uninjured.",
+  "input_tokens": 651,
+  "output_tokens": 75,
+  "response_time_s": 2.14,
+  "prompt": "C",
+  "review_id": "V047"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions on the acting, dialogue, action, and clich\u00e9s, and mentions a chase scene without revealing any specific plot events, twists, or outcomes.",
+  "input_tokens": 607,
+  "output_tokens": 68,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V048"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only general opinions on themes, visuals, acting, and the ending's style, and it reveals no specific plot events, twists, deaths, or the villain's identity.",
+  "input_tokens": 700,
+  "output_tokens": 68,
+  "response_time_s": 1.23,
+  "prompt": "C",
+  "review_id": "V049"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the direction, acting, visuals, and plot quality, and its vague mention that \"something finally happened\" and that he goes around saving people doesn't reveal any specific plot events, twists, or the ending.",
+  "input_tokens": 503,
+  "output_tokens": 85,
+  "response_time_s": 2.05,
+  "prompt": "C",
+  "review_id": "V050"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions on the cast, direction, length, and soundtrack, and its vague mention of suspects slipping away and the killer closing in on prey is general setup, not a reveal of a major plot event or the ending.",
+  "input_tokens": 678,
+  "output_tokens": 84,
+  "response_time_s": 1.43,
+  "prompt": "C",
+  "review_id": "V051"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the acting, humor, and appeal, and the only plot detail, two people meeting through the internet, is part of the basic premise rather than a twist or ending.",
+  "input_tokens": 512,
+  "output_tokens": 72,
+  "response_time_s": 1.57,
+  "prompt": "C",
+  "review_id": "V052"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the acting, music, visuals, and overall quality, and it reveals no plot events, twists, deaths, or endings.",
+  "input_tokens": 530,
+  "output_tokens": 60,
+  "response_time_s": 1.51,
+  "prompt": "C",
+  "review_id": "V053"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review describes specific plot events, such as characters blowing away nuclear radiation with a fan and surviving a fall from a 12-storey building unharmed, even though these are presented sarcastically.",
+  "input_tokens": 653,
+  "output_tokens": 77,
+  "response_time_s": 1.54,
+  "prompt": "C",
+  "review_id": "V054"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic setup (the president in danger, a Marshal and a war hero going after villain Arliss Loveless) and opinions about the cast, humor, and clich\u00e9s, without revealing any twists, deaths, or the ending.",
+  "input_tokens": 529,
+  "output_tokens": 88,
+  "response_time_s": 2.25,
+  "prompt": "C",
+  "review_id": "V055"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals plot details of Spider-Man 3, such as Peter Parker becoming a disco-dancing \"rude\" version of himself under the symbiote's influence and the symbiote's similarity to another one found in the 70's, which go beyond general opinion.",
+  "input_tokens": 759,
+  "output_tokens": 98,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V056"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only discusses the style of humor, its stereotype-based jokes, and the reviewer's enjoyment, without revealing any plot events, twists, or character fates.",
+  "input_tokens": 611,
+  "output_tokens": 67,
+  "response_time_s": 1.57,
+  "prompt": "C",
+  "review_id": "V057"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions that a twist exists but never says what it is, and the rest is opinion about the acting, pacing, direction, and critical reception.",
+  "input_tokens": 487,
+  "output_tokens": 58,
+  "response_time_s": 1.5,
+  "prompt": "C",
+  "review_id": "V058"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the humor, pacing, acting, and IMDb rating, and it mentions a character without revealing any plot events.",
+  "input_tokens": 537,
+  "output_tokens": 58,
+  "response_time_s": 1.06,
+  "prompt": "C",
+  "review_id": "V059"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly gives negative opinions about the effects, acting, and tone, and the only plot detail it mentions (a boy getting kissed and turning purple) is a minor, comedic moment rather than a major twist, death, or ending.",
+  "input_tokens": 652,
+  "output_tokens": 88,
+  "response_time_s": 2.28,
+  "prompt": "C",
+  "review_id": "V060"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals specific plot events, such as the soldiers invading a house and being invited to dinner, and a sexist remark about Kyle's baby halfway through. It also alludes to the finale of Zero Dark Thirty, though the finale's content is mostly a matter of historical record and is not described in detail.",
+  "input_tokens": 658,
+  "output_tokens": 112,
+  "response_time_s": 1.46,
+  "prompt": "C",
+  "review_id": "V061"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives negative opinions about the plot quality, humor, characters, CGI, and fight scenes, without revealing any specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 580,
+  "output_tokens": 71,
+  "response_time_s": 1.85,
+  "prompt": "C",
+  "review_id": "V062"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals plot details, namely that the FBI head told his people to back off, which explains why Denzil had so much leeway, and it implies a character was shot without a bulletproof vest.",
+  "input_tokens": 557,
+  "output_tokens": 248,
+  "response_time_s": 2.77,
+  "prompt": "C",
+  "review_id": "V063"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the plot, humor, and villain, and the detail about the son calling him by his first name is a minor character dynamic rather than an important plot event, twist, or ending.",
+  "input_tokens": 507,
+  "output_tokens": 74,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V064"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly criticizes the production, pacing, editing and lack of team chemistry, and its only plot details (the heroes getting powers and Dr. Doom being the villain) are premise-level or widely known rather than twists or endings.",
+  "input_tokens": 664,
+  "output_tokens": 233,
+  "response_time_s": 2.36,
+  "prompt": "C",
+  "review_id": "V065"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives only the show's basic premise (brothers hunting supernatural beings, a demon killing someone close to Sam) and general opinions on acting and tone, without revealing any specific twist, death, or ending.",
+  "input_tokens": 678,
+  "output_tokens": 81,
+  "response_time_s": 1.84,
+  "prompt": "C",
+  "review_id": "V066"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review describes the tone, the Dust Bowl setting, and the acting and direction, and its remark that nothing turned out well is a vague overall impression that gives away no specific plot events, twists, or the ending.",
+  "input_tokens": 494,
+  "output_tokens": 80,
+  "response_time_s": 1.33,
+  "prompt": "C",
+  "review_id": "V067"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions a \"climatic revelation\" but doesn't say what it is, and the rest covers only general praise, cast, and setup details (like De Niro's character being an ex-CIA agent) that don't reveal major plot events.",
+  "input_tokens": 536,
+  "output_tokens": 86,
+  "response_time_s": 1.34,
+  "prompt": "C",
+  "review_id": "V068"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review is mostly a political critique that only vaguely mentions themes like government lying and phone surveillance, without revealing the ending, a twist, a character's death, or the villain's identity.",
+  "input_tokens": 635,
+  "output_tokens": 258,
+  "response_time_s": 2.35,
+  "prompt": "C",
+  "review_id": "V069"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the story, lighting, character development, and performances (such as Harley Quinn's accent and the Joker being unscary), without revealing any plot events, twists, deaths, or the ending.",
+  "input_tokens": 545,
+  "output_tokens": 81,
+  "response_time_s": 1.09,
+  "prompt": "C",
+  "review_id": "V070"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that members of the team die, naming Dietz specifically and saying his autopsy showed he was shot 11 times, which gives away a character's death and details of the plot.",
+  "input_tokens": 753,
+  "output_tokens": 204,
+  "response_time_s": 2.18,
+  "prompt": "C",
+  "review_id": "V071"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general praise for the direction, script, and performances, and it mentions no specific plot events, twists, or outcomes.",
+  "input_tokens": 527,
+  "output_tokens": 54,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V072"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers opinions about Costner's performance, the film's genre, and its editing, and its one plot-related remark (the Smokers' cigarettes and crude-to-gasoline question) is a setup detail rather than a major twist, ending, death, or villain reveal.",
+  "input_tokens": 662,
+  "output_tokens": 100,
+  "response_time_s": 1.44,
+  "prompt": "C",
+  "review_id": "V073"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the acting, writing, and overall quality, plus a general note on Gere's character's attitude as a lawyer, without revealing any twist, ending, or major plot event.",
+  "input_tokens": 570,
+  "output_tokens": 75,
+  "response_time_s": 1.73,
+  "prompt": "C",
+  "review_id": "V074"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: Although it claims not to spoil the ending, it reveals that liked characters are \"disposed of\" or change completely, which hints at major plot events, though it does so vaguely and names no specific character.",
+  "input_tokens": 456,
+  "output_tokens": 75,
+  "response_time_s": 1.69,
+  "prompt": "C",
+  "review_id": "V075"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that all the newly established members of Rogue One die, which is a major plot outcome, and it also gives away that the rebels get the Death Star plans.",
+  "input_tokens": 670,
+  "output_tokens": 65,
+  "response_time_s": 1.59,
+  "prompt": "C",
+  "review_id": "V076"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals specific plot details from Snowpiercer, including Chris Evans' character's speech about knowing what human tastes like, Ed Harris eating steak, and the idea that the film's ending was changed, which hints at the ending.",
+  "input_tokens": 597,
+  "output_tokens": 90,
+  "response_time_s": 1.64,
+  "prompt": "C",
+  "review_id": "V077"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only describes the basic premise (a board game that makes events happen), the early pacing, and the language content, and the mention of the meteor shower is an early plot point that doesn't reveal any twist, ending, or major reveal.",
+  "input_tokens": 519,
+  "output_tokens": 84,
+  "response_time_s": 1.54,
+  "prompt": "C",
+  "review_id": "V078"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the character Skinny is killed in a scene, which is a major plot event (a character's death) that someone wouldn't know before watching.",
+  "input_tokens": 513,
+  "output_tokens": 62,
+  "response_time_s": 1.18,
+  "prompt": "C",
+  "review_id": "V079"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers opinions on the acting, comparisons to other films, and a general premise (post-apocalyptic with trust issues), without revealing any specific plot events, twists, or the ending.",
+  "input_tokens": 524,
+  "output_tokens": 74,
+  "response_time_s": 1.59,
+  "prompt": "C",
+  "review_id": "V080"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions on pacing and quality, plus vague structural remarks (talking heads, flashbacks), without revealing any specific plot events, twists, deaths, or the villain.",
+  "input_tokens": 462,
+  "output_tokens": 74,
+  "response_time_s": 1.22,
+  "prompt": "C",
+  "review_id": "V081"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals plot events beyond the opening setup, including that Clyde kills the freed man, is imprisoned, and then kills the people involved in his arrest from prison.",
+  "input_tokens": 680,
+  "output_tokens": 69,
+  "response_time_s": 1.23,
+  "prompt": "C",
+  "review_id": "V082"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for the acting and the film's concept (following Mason from boyhood to adulthood, which is the premise) and doesn't reveal any specific plot events, twists, or endings.",
+  "input_tokens": 495,
+  "output_tokens": 76,
+  "response_time_s": 1.58,
+  "prompt": "C",
+  "review_id": "V083"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions on camera work, costumes, lighting, script, and acting, and compares the film to others, without revealing any specific plot events, twists, or outcomes.",
+  "input_tokens": 640,
+  "output_tokens": 69,
+  "response_time_s": 0.92,
+  "prompt": "C",
+  "review_id": "V084"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the movie's feel-good tone and the casting of Tom Hanks and Meg Ryan, with no specific plot events, twists, or the ending revealed.",
+  "input_tokens": 486,
+  "output_tokens": 74,
+  "response_time_s": 1.08,
+  "prompt": "C",
+  "review_id": "V085"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic premise (a kid forgotten at home while thieves try to rob the house), which is setup rather than a hidden twist or ending, and the rest is opinion and trivia.",
+  "input_tokens": 429,
+  "output_tokens": 75,
+  "response_time_s": 1.7,
+  "prompt": "C",
+  "review_id": "V086"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly gives opinions about Jolie, the style, and the direction, and it only mentions basic setup details (Powell is the villain, Lara must stop him during the Grand Alignment) without revealing any twist, ending, or outcome.",
+  "input_tokens": 794,
+  "output_tokens": 91,
+  "response_time_s": 1.68,
+  "prompt": "C",
+  "review_id": "V087"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review describes a few amusing scenes, a line of dialogue, and performances, but none of it reveals major plot events, twists, or the ending (and the film is a historical biopic).",
+  "input_tokens": 662,
+  "output_tokens": 70,
+  "response_time_s": 1.15,
+  "prompt": "C",
+  "review_id": "V088"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about Gibson's direction, the film's style, and its violence, and it reveals no plot events beyond the widely known premise of Christ's crucifixion.",
+  "input_tokens": 684,
+  "output_tokens": 70,
+  "response_time_s": 0.99,
+  "prompt": "C",
+  "review_id": "V089"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review describes the film's general themes (post-apocalyptic survival, AI extra-terrestrial machines), its set and sound design, and its overall feel, without revealing specific plot events, twists, deaths, or the identity of any villain.",
+  "input_tokens": 487,
+  "output_tokens": 89,
+  "response_time_s": 1.12,
+  "prompt": "C",
+  "review_id": "V090"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the music, acting, setting, and tone, and mentions the winter and snow scenery without revealing any plot events, twists, deaths, or the villain.",
+  "input_tokens": 518,
+  "output_tokens": 70,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V091"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives personal reflections, opinions on realism, and a general theme (\"good versus evil battling for the soul\" of the protagonist), without revealing specific plot events, twists, deaths, or the ending.",
+  "input_tokens": 511,
+  "output_tokens": 80,
+  "response_time_s": 1.84,
+  "prompt": "C",
+  "review_id": "V092"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about quality, plot logic, and acting, and mentions the confined setting (a premise-level detail, not a twist, death, ending, or villain identity).",
+  "input_tokens": 609,
+  "output_tokens": 69,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V093"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review gives mostly praise and a general setup (the park, the dinosaurs breaking out, the tyrannosaur scene), which is the basic premise and early-act events rather than the ending, a twist, or a major reveal.",
+  "input_tokens": 668,
+  "output_tokens": 85,
+  "response_time_s": 2.05,
+  "prompt": "C",
+  "review_id": "V094"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the style, violence and audience reaction, and mentions the revenge premise and sword-fighting violence without revealing any specific plot events, twists or deaths.",
+  "input_tokens": 500,
+  "output_tokens": 174,
+  "response_time_s": 2.42,
+  "prompt": "C",
+  "review_id": "V095"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The reviewer says the female lead was given the ability to see into the future after contact with the aliens, which reveals a central plot point, and the review also hints at the aliens leaving.",
+  "input_tokens": 455,
+  "output_tokens": 187,
+  "response_time_s": 1.98,
+  "prompt": "C",
+  "review_id": "V096"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions only a vague premise (\"justice for victims\") and gives opinions on acting, sets, and soundtrack, without revealing any specific plot events, twists, or character fates within the film.",
+  "input_tokens": 549,
+  "output_tokens": 75,
+  "response_time_s": 1.13,
+  "prompt": "C",
+  "review_id": "V097"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about CGI, humor, and how it compares to earlier films, and its mention of a fight scene resembling a video game reveals no significant plot events.",
+  "input_tokens": 505,
+  "output_tokens": 67,
+  "response_time_s": 1.23,
+  "prompt": "C",
+  "review_id": "V098"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions only the basic setup (popular bad-boy Landon and quiet Jaimie becoming close and falling in love) and that the film is sad, without revealing any major twist, ending, or character death.",
+  "input_tokens": 546,
+  "output_tokens": 79,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V099"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals plot events such as the hero secretly building the armor instead of the missile to escape captivity, and that he later destroys his own weapons and kills the thing trying to kill him and the woman he loves.",
+  "input_tokens": 724,
+  "output_tokens": 80,
+  "response_time_s": 1.63,
+  "prompt": "C",
+  "review_id": "V100"
+ }
+]
