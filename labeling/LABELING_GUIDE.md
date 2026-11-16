@@ -10,18 +10,20 @@ Each of us labels **all 100 reviews on our own** (the same 100), without talking
 > like the ending, a twist, a character dying, or who the villain is.
 > General opinions about acting, visuals or whether the movie is good are NOT spoilers.
 
-## Edge cases we decide on BEFORE labeling (fill in together, then label)
+## Edge-case rules (agreed together after the first round of labeling; used to settle disagreements)
 
 | Situation | Our rule |
 |---|---|
-| Vague hint ("the ending will shock you") |  |
-| Plot from the first 10 minutes / the trailer |  |
-| Says a twist exists but not what it is |  |
-| Book or comic changes ("they changed who dies") |  |
-| Review says "SPOILERS" but then doesn't give any |  |
+| Vague hint ("the ending will shock you") | No |
+| Plot from the first 10 minutes / the trailer | No |
+| Says a twist exists but not what it is | No |
+| Book or comic changes ("they changed who dies") | Yes if it reveals who dies or how it ends; No if it just says things changed |
+| Review says "SPOILERS" but then doesn't give any | No |
 
-## After both sheets are done
+## After both sheets are done (done)
 
-1. Run the notebook through section 3: it prints κ and writes `answer_key.csv`.
-2. For every row with a blank `final_label`, talk it through, type the final **Yes/No**, and write one line in `how_settled`.
-3. Rerun. The notebook stops if any disagreement is unsettled.
+1. First round: we agreed on 62 of 100 (κ = 0.30), mostly Braxton Yes / Teenna No.
+2. We wrote the edge-case rules above, then settled the 38 disagreements together in `Settle_38_Disagreements.docx`
+   (final call + one line on how we decided for each).
+3. `answer_key.csv` holds both labels, the final label and how it was settled (agreed rows say "agreed").
+   Final key: 45 Yes / 55 No.
