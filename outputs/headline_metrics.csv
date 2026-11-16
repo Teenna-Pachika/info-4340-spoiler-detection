@@ -1,0 +1,13 @@
+,value
+hand-label κ (before settling),0.299
+dataset tag agrees with our key,0.57
+best prompt,LLM prompt C
+best prompt recall on spoilers,0.467
+best prompt recall 95% CI,"[0.32, 0.62]"
+TF-IDF baseline recall,0.711
+share sent to a human (Unsure),0.0
+genre recall ratio (min/max),0.267
+"API cost per 1,000 reviews (USD)",2.07
+rubric human-human κ (linear),-0.015
+rubric human-human exact agreement,0.63
+rubric MDD (0-16),3.5

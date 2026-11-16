@@ -1,0 +1,677 @@
+[
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V068",
+  "correct_call": 3,
+  "evidence": 3,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V065",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V079",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V017",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V091",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V058",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V081",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V082",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V018",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V015",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V086",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V028",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V038",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V094",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V008",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V077",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 3,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V002",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V071",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V100",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V096",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V056",
+  "correct_call": 3,
+  "evidence": 3,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V047",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V061",
+  "correct_call": 2,
+  "evidence": 3,
+  "faithfulness": 3,
+  "usefulness": 3
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V060",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 1,
+  "prompt": "C",
+  "review_id": "V021",
+  "correct_call": 1,
+  "evidence": 2,
+  "faithfulness": 3,
+  "usefulness": 2
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V068",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V002",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V079",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V028",
+  "correct_call": 3,
+  "evidence": 3,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V096",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V056",
+  "correct_call": 3,
+  "evidence": 3,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V017",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 3,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V077",
+  "correct_call": 4,
+  "evidence": 3,
+  "faithfulness": 3,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V061",
+  "correct_call": 2,
+  "evidence": 3,
+  "faithfulness": 3,
+  "usefulness": 3
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V094",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V018",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V058",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V021",
+  "correct_call": 1,
+  "evidence": 2,
+  "faithfulness": 3,
+  "usefulness": 2
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V082",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V008",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V015",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V038",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V091",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V086",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V081",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V060",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V100",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V065",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V071",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 2,
+  "prompt": "C",
+  "review_id": "V047",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V081",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V079",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V061",
+  "correct_call": 2,
+  "evidence": 3,
+  "faithfulness": 3,
+  "usefulness": 3
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V096",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V071",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V077",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V065",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V015",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V008",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V094",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V068",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V018",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V091",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V028",
+  "correct_call": 3,
+  "evidence": 3,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V038",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V021",
+  "correct_call": 1,
+  "evidence": 2,
+  "faithfulness": 3,
+  "usefulness": 2
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V086",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V056",
+  "correct_call": 3,
+  "evidence": 3,
+  "faithfulness": 4,
+  "usefulness": 3
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V060",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V100",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V082",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V002",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V047",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V017",
+  "correct_call": 4,
+  "evidence": 4,
+  "faithfulness": 3,
+  "usefulness": 4
+ },
+ {
+  "run": 3,
+  "prompt": "C",
+  "review_id": "V058",
+  "correct_call": 3,
+  "evidence": 4,
+  "faithfulness": 4,
+  "usefulness": 4
+ }
+]
