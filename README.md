@@ -1,6 +1,6 @@
 # LLM Spoiler Detection on IMDb Reviews
 
-INFO 4340 final project · Braxton Turner & Teenna
+INFO 4340 final project · Braxton Turner & Teenna Pachika
 
 **Question:** Can an LLM flag spoilers in movie reviews well enough to replace a platform's self-reported
 "contains spoilers" checkbox, and at what cost?
