@@ -1,0 +1,202 @@
+[
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals major plot events, including that the castration was faked, that the woman psychologically tortured the man, and that she coerced him into killing himself.",
+  "input_tokens": 616,
+  "output_tokens": 61,
+  "response_time_s": 1.4,
+  "prompt": "C",
+  "review_id": "V002"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers general praise for Annie Hall, its chemistry, and its blend of comedy and drama, and it mentions no plot events, twists, or endings.",
+  "input_tokens": 568,
+  "output_tokens": 65,
+  "response_time_s": 1.51,
+  "prompt": "C",
+  "review_id": "V008"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that the Colonel shoots Benjamin's youngest son, that the Colonel \"gets his in the end\" (Gibson beats him in the climax), and hints at Heath Ledger's character's tragic fate, all of which are major plot events.",
+  "input_tokens": 791,
+  "output_tokens": 96,
+  "response_time_s": 1.13,
+  "prompt": "C",
+  "review_id": "V015"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only offers opinions on the acting, script, and pacing, and the vague mention of a \"pathetic battle scene at the end\" reveals no specific plot events or outcomes.",
+  "input_tokens": 650,
+  "output_tokens": 70,
+  "response_time_s": 1.16,
+  "prompt": "C",
+  "review_id": "V017"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that the two leads overcome the obstacle, end up together with a kiss, and get a happy ending, though it frames this as a predictable genre formula, so the spoiler is mild.",
+  "input_tokens": 698,
+  "output_tokens": 76,
+  "response_time_s": 1.07,
+  "prompt": "C",
+  "review_id": "V018"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It states that Corey Stoll plays the bad guy and is \"convincingly evil,\" which reveals who the villain is, though this is a minor reveal that the marketing also made fairly clear.",
+  "input_tokens": 693,
+  "output_tokens": 365,
+  "response_time_s": 3.38,
+  "prompt": "C",
+  "review_id": "V021"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about how the film differs from the books and mentions absent characters and locations, without revealing any specific plot events, twists, or the ending of the movie.",
+  "input_tokens": 616,
+  "output_tokens": 66,
+  "response_time_s": 1.85,
+  "prompt": "C",
+  "review_id": "V028"
+ },
+ {
+  "answer": "Spoiler: No\nReason: It only describes the film's basic premise (Daniel disguising himself as a housekeeper to see his kids) and gives opinions on the performances, writing, and box office, without revealing any twists, endings, or major late-plot events.",
+  "input_tokens": 828,
+  "output_tokens": 85,
+  "response_time_s": 1.74,
+  "prompt": "C",
+  "review_id": "V038"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals major plot events, including that Danny Glover's character single-handedly kills the Predator and that the Predator tries to activate its self-destruct bomb, which are key late-film events.",
+  "input_tokens": 651,
+  "output_tokens": 75,
+  "response_time_s": 1.13,
+  "prompt": "C",
+  "review_id": "V047"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly gives negative opinions about the acting, tone, and scenes (like the dancing and jazz club), and the details it mentions are general moments rather than major plot reveals such as the ending, a twist, a death, or the villain's identity.",
+  "input_tokens": 759,
+  "output_tokens": 91,
+  "response_time_s": 1.23,
+  "prompt": "C",
+  "review_id": "V056"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions that a twist exists and praises it, but it never says what the twist is, so it only gives opinions about the acting, pacing, and direction.",
+  "input_tokens": 487,
+  "output_tokens": 61,
+  "response_time_s": 1.53,
+  "prompt": "C",
+  "review_id": "V058"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mostly gives negative opinions about the effects, acting, and tone, and the only plot detail (a boy getting kissed and turning purple) is a minor scene rather than a major twist, ending, or death, and the reviewer says they didn't watch the end.",
+  "input_tokens": 652,
+  "output_tokens": 96,
+  "response_time_s": 1.78,
+  "prompt": "C",
+  "review_id": "V060"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals some plot events, such as the soldiers invading a house and being invited to dinner, and it alludes to the finale of Zero Dark Thirty (the bin Laden raid), though most of the review is opinion.",
+  "input_tokens": 658,
+  "output_tokens": 85,
+  "response_time_s": 1.18,
+  "prompt": "C",
+  "review_id": "V061"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that Dr. Doom turns evil and becomes the villain fought in the movie's only action scene, and that the full team only appears together at the very end, which gives away plot developments.",
+  "input_tokens": 664,
+  "output_tokens": 327,
+  "response_time_s": 3.15,
+  "prompt": "C",
+  "review_id": "V065"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review mentions a \"climactic revelation\" but gives no detail about what it is, and the rest covers general opinions, cast, action, and the setup of De Niro's character, which is not a major plot reveal.",
+  "input_tokens": 536,
+  "output_tokens": 78,
+  "response_time_s": 1.27,
+  "prompt": "C",
+  "review_id": "V068"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals that team members die, and names Dietz as one of the dead who was shot 11 times according to the autopsy report, which discloses a specific character's death.",
+  "input_tokens": 753,
+  "output_tokens": 288,
+  "response_time_s": 2.94,
+  "prompt": "C",
+  "review_id": "V071"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals plot details from Snowpiercer, including Ed Harris's character eating steak, Chris Evans's speech about knowing what human tastes like, and a hint that the ending is \"weird and confusing,\" and it also lays out a theory about the original storyline involving eating children.",
+  "input_tokens": 597,
+  "output_tokens": 105,
+  "response_time_s": 1.98,
+  "prompt": "C",
+  "review_id": "V077"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: The review reveals that the character Skinny is killed in a scene, which is a major plot event (a character's death) that a viewer wouldn't know beforehand.",
+  "input_tokens": 513,
+  "output_tokens": 65,
+  "response_time_s": 1.02,
+  "prompt": "C",
+  "review_id": "V079"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives opinions about the show's slow pacing, its reliance on talking heads and flashbacks, and the reviewer's disappointment, without revealing any specific plot events, twists, or outcomes.",
+  "input_tokens": 462,
+  "output_tokens": 80,
+  "response_time_s": 1.05,
+  "prompt": "C",
+  "review_id": "V081"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals plot events beyond the opening setup, including that Clyde kills the freed man, is imprisoned, and then kills the people involved in his arrest from prison, which is central to the film's twists.",
+  "input_tokens": 680,
+  "output_tokens": 79,
+  "response_time_s": 1.01,
+  "prompt": "C",
+  "review_id": "V082"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives the basic premise (a kid left home alone while thieves try to rob the house), which is setup rather than a twist or ending, and the rest is general opinion about the film and its lead.",
+  "input_tokens": 429,
+  "output_tokens": 74,
+  "response_time_s": 1.67,
+  "prompt": "C",
+  "review_id": "V086"
+ },
+ {
+  "answer": "Spoiler: No\nReason: The review only gives general opinions about the music, acting, setting, and tone, and it mentions no specific plot events, twists, deaths, or the villain's identity.",
+  "input_tokens": 518,
+  "output_tokens": 64,
+  "response_time_s": 1.79,
+  "prompt": "C",
+  "review_id": "V091"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: Beyond praise, the review recaps plot events from the film, including the dinosaurs breaking out, the tyrannosaur escape, and Malcolm breaking his leg, which viewers wouldn't know before watching.",
+  "input_tokens": 668,
+  "output_tokens": 86,
+  "response_time_s": 1.33,
+  "prompt": "C",
+  "review_id": "V094"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals a key plot point, that the main character gains the ability to see into the future from the aliens, along with the aliens leaving, and the review itself is flagged \"SPOILERS.\"",
+  "input_tokens": 455,
+  "output_tokens": 198,
+  "response_time_s": 2.04,
+  "prompt": "C",
+  "review_id": "V096"
+ },
+ {
+  "answer": "Spoiler: Yes\nReason: It reveals plot events such as the hero secretly building the armor instead of a missile to escape captivity, and that he destroys his own weapons and kills the thing trying to kill him and the woman he loves, which are key story points.",
+  "input_tokens": 724,
+  "output_tokens": 85,
+  "response_time_s": 1.95,
+  "prompt": "C",
+  "review_id": "V100"
+ }
+]

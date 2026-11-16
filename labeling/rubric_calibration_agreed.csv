@@ -1,0 +1,6 @@
+prompt,review_num,correct_call_braxton_week7,correct_call_teenna_week7,correct_call,evidence_braxton_week7,evidence_teenna_week7,evidence,faithfulness_braxton_week7,faithfulness_teenna_week7,faithfulness,usefulness_braxton_week7,usefulness_teenna_week7,usefulness
+C,0,4,4,4,2,4,4,2,3,3,3,4,4
+C,1,4,3,4,3,4,4,2,3,3,3,4,3
+C,2,4,4,4,2,4,4,2,4,3,2,4,4
+C,3,4,3,3,2,4,4,2,3,2,3,4,3
+C,4,4,4,4,2,4,3,2,4,3,3,4,3

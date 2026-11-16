@@ -1,0 +1,16 @@
+prompt,review_num,correct_call_braxton,correct_call_teenna,evidence_braxton,evidence_teenna,faithfulness_braxton,faithfulness_teenna,usefulness_braxton,usefulness_teenna,teenna_notes
+A,0,4,4,3,4,4,3,4,4,"Yep, that's the whole ending of the heist right there. Only thing is the review says some of the cash goes in the truck, not all of it, but that's me being picky."
+A,1,3,3,3,4,3,2,3,4,"I'd call it a spoiler too since you find out the hero lives. But it says the review explains how the time machine actually works, and it really doesn't, the reviewer is just guessing it's a camera."
+A,2,4,4,3,4,4,4,4,4,"Agree, there's nothing in here except opinions. Good that it noticed the twists line and didn't overreact to it."
+A,3,3,3,3,4,3,2,3,3,"I get why it said yes, if you read the comic the squid comment gives it away. But the review doesn't tell you how the movie ends, so saying it reveals how the story concludes is too much."
+A,4,4,4,2,4,3,4,3,4,"Right call. The review is mostly the guy complaining about Tom Cruise, there's no plot in it."
+B,0,4,4,2,4,3,3,3,4,Pretty much the same answer as A and just as good. Same tiny 'some of the cash' thing.
+B,1,0,2,2,3,2,3,0,2,"I don't buy calling this premise. The animals died and the hero didn't, that's a real plot outcome. And since it lists those details and then says no, a mod would want to go back and check."
+B,2,3,4,2,4,2,4,2,4,"No issues, it's an opinion review and the answer says so."
+B,3,3,3,3,4,3,3,3,4,"Fine call, and quoting the exact line helps a lot. 'Significant plot detail' is a bit dramatic for a two word joke though."
+B,4,4,4,3,4,2,4,3,4,"Correct, and the list of complaints actually matches what the reviewer says."
+C,0,4,4,2,4,2,3,3,4,Good. Calling it the payoff works since the reviewer literally uses that word. Still says all the cash instead of some.
+C,1,4,3,3,4,2,3,3,4,"Agree with this one. It goes straight to the hero surviving, which is the part that matters. 'Describes how the time machine works' is a little generous but I'll let it go."
+C,2,4,4,2,4,2,4,2,4,"Same as the other two, nothing wrong here."
+C,3,4,3,2,4,2,3,3,4,"Basically B's answer again. 'Dropping the squid' is a guess from the joke, but it's a pretty safe guess."
+C,4,4,4,2,4,2,4,3,4,"Correct, and quoting 'weak and predictable plot' makes it really quick to check. Probably the best of the three for this review."
